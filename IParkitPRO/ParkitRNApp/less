@@ -1,0 +1,1000 @@
+ 1008  31/03/24 02:01:13 sudo nano doublecmd.desktop
+ 1009  31/03/24 02:01:13 sudo cp  doublecmd.desktop ~/.local/share/applications
+ 1010  31/03/24 02:01:13 sudo chmod +x ~/.local/share/applications
+ 1011  31/03/24 02:01:13 sudo cp +x  doublecmd.desktop
+ 1012  31/03/24 02:01:13 sudo nano doublecmd.desktop
+ 1013  31/03/24 02:01:13 sudo chmod +x  doublecmd.desktop
+ 1014  31/03/24 02:01:13 desktop-file-validate ~/desktop-entries/gpass.desktop
+ 1015  31/03/24 02:01:13 desktop-file-validate  doublecmd.desktop
+ 1016  31/03/24 02:01:13 ls ~/desktop-entries
+ 1017  31/03/24 02:01:13 desktop-file-install --dir=~/.local/share/applications doublecmd.desktop
+ 1018  31/03/24 02:01:13 desktop-file-install --dir=~/.local/share/applications ./doublecmd.desktop
+ 1019  31/03/24 02:01:13 update-desktop-database ~/.local/share/applications
+ 1020  31/03/24 02:01:13 sudo apt-get install dex
+ 1021  31/03/24 02:01:13 dex  doublecmd.desktop
+ 1022  31/03/24 02:01:13 dex ./ doublecmd.desktop
+ 1023  31/03/24 02:01:13 dex ./doublecmd.desktop
+ 1024  31/03/24 02:01:13 cd ~/.local/share/applications
+ 1025  31/03/24 02:01:13 sudo chmod doublecmd.desktop
+ 1026  31/03/24 02:01:13 sudo chmod +x doublecmd.desktop
+ 1027  31/03/24 02:01:13 sudo nano  +x doublecmd.desktop
+ 1028  31/03/24 02:01:13 source ~/.bashrc
+ 1029  31/03/24 02:01:13 sudo nano  +x doublecmd.desktop
+ 1030  31/03/24 02:01:13 source ~/.bashrc
+ 1031  31/03/24 02:01:13 sudo nano  +x doublecmd.desktop
+ 1032  31/03/24 02:01:13 sudo nano ~/.local/share/applications/doublecmd.desktop
+ 1033  31/03/24 02:01:13 sudo nano /usr/share/applications/doublecmd.desktop
+ 1034  31/03/24 02:01:13 source ~/.bashrc
+ 1035  31/03/24 02:01:13 react-native
+ 1036  31/03/24 02:01:13 wget http://mirrors.kernel.org/ubuntu/pool/multiverse/f/fdk-aac/libfdk-aac1_0.1.6-1_amd64.deb
+ 1037  31/03/24 02:01:13 sudo apt install ./libfdk-aac1_*_amd64.deb
+ 1038  31/03/24 02:01:13 stremio
+ 1039  31/03/24 02:01:13 cd Downloads
+ 1040  31/03/24 02:01:13 wget http://nz2.archive.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1-1ubuntu2.1~18.04.23_amd64.deb
+ 1041  31/03/24 02:01:13 sudo dpkg -i libssl1.1_1.1.1-1ubuntu2.1~18.04.23_amd64.deb
+ 1042  31/03/24 02:01:13 sudo apt install --fix-broken
+ 1043  31/03/24 02:01:13 sudo apt install --fix-missing
+ 1044  31/03/24 02:01:13 sudo apt install --fix-broken
+ 1045  31/03/24 02:01:13 sudo apt update
+ 1046  31/03/24 02:01:13 sudo apt install --fix-broken
+ 1047  31/03/24 02:01:13 sudo dpkg -i libssl1.1_1.1.1-1ubuntu2.1~18.04.23_amd64.deb
+ 1048  31/03/24 02:01:13 docker pull sleeyax/stremio-streaming-server
+ 1049  31/03/24 02:01:13 ocker run -p 11470:11470 -v ${PWD}:/root/.stremio-server --name=stremio-streaming-server sleeyax/stremio-streaming-server
+ 1050  31/03/24 02:01:13 docker run -p 11470:11470 -v ${PWD}:/root/.stremio-server --name=stremio-streaming-server sleeyax/stremio-streaming-server
+ 1051  31/03/24 02:01:13 subl .
+ 1052  31/03/24 02:01:13 pidof Rider
+ 1053  31/03/24 02:01:13 pidof rider
+ 1054  31/03/24 02:01:13 ps
+ 1055  31/03/24 02:01:13 top
+ 1056  31/03/24 02:01:13 clear
+ 1057  31/03/24 02:01:13 alias clear=`cls`
+ 1058  31/03/24 02:01:13 alias cls=`clear`
+ 1059  31/03/24 02:01:13 type clear
+ 1060  31/03/24 02:01:13 unalias cls
+ 1061  31/03/24 02:01:13 type clear
+ 1062  31/03/24 02:01:13 alias cls='clear'
+ 1063  31/03/24 02:01:13 type  clear
+ 1064  31/03/24 02:01:13 `:"
+ 1065  31/03/24 02:01:13 ;
+ 1066  31/03/24 02:01:13 `'
+ 1067  31/03/24 02:01:13 cls
+ 1068  31/03/24 02:01:13 clear
+ 1069  31/03/24 02:01:13 dir
+ 1070  31/03/24 02:01:13 clear
+ 1071  31/03/24 02:01:13 cls
+ 1072  31/03/24 02:01:13 type clear
+ 1073  31/03/24 02:01:13 alias cls='clear'
+ 1074  31/03/24 02:01:13 cls
+ 1075  31/03/24 02:01:13 sldfkj
+ 1076  31/03/24 02:01:13 ;ijsdf
+ 1077  31/03/24 02:01:13 soidjfs
+ 1078  31/03/24 02:01:13 cls
+ 1079  31/03/24 02:01:13 sudo nano ~/.bashrc
+ 1080  31/03/24 02:01:13 source ~/.bashrc
+ 1081  31/03/24 02:01:13 s;ldfj
+ 1082  31/03/24 02:01:13 s;idjf
+ 1083  31/03/24 02:01:13 sd'f
+ 1084  31/03/24 02:01:13 cls
+ 1085  31/03/24 02:01:13 cls
+ 1086  31/03/24 02:01:13 fgh
+ 1087  31/03/24 02:01:13 dfg
+ 1088  31/03/24 02:01:13 dfgclear
+ 1089  31/03/24 02:01:13 clear
+ 1090  31/03/24 02:01:13 ps
+ 1091  31/03/24 02:01:13 ps -ef | grep run.sh
+ 1092  31/03/24 02:01:13 ps -ef | grep rider
+ 1093  31/03/24 02:01:13 kill 32836
+ 1094  31/03/24 02:01:13 kill  31898
+ 1095  31/03/24 02:01:13 ps -ef | grep rider
+ 1096  31/03/24 02:01:13 killall  31898
+ 1097  31/03/24 02:01:13 ps -ef | grep rider
+ 1098  31/03/24 02:01:13 pgrep -l rider
+ 1099  31/03/24 02:01:13 ps -ef |grep chrome
+ 1100  31/03/24 02:01:13 killall rider
+ 1101  31/03/24 02:01:13 cls
+ 1102  31/03/24 02:01:13 exif
+ 1103  31/03/24 02:01:13 exiftool
+ 1104  31/03/24 02:01:13 docker run -p 11470:11470 -v ${PWD}:/root/.stremio-server --name=stremio-streaming-server sleeyax/stremio-streaming-server
+ 1105  31/03/24 02:01:13 docker
+ 1106  31/03/24 02:01:13 docker run -p 11470:11470 -v ${PWD}:/root/.stremio-server --name=stremio-streaming-server sleeyax/stremio-streaming-server
+ 1107  31/03/24 02:01:13 speedtest
+ 1108  31/03/24 02:01:13 ./rider.sh
+ 1109  31/03/24 02:01:13 gradle -v
+ 1110  31/03/24 02:01:13 lsusb
+ 1111  31/03/24 02:01:13 echo 'SUBSYSTEM=="usb", ATTR{idVendor}=="04e8", MODE="0666", GROUP="plugdev"' | sudo tee /etc/udev/rules.d/51-android-usb.rules
+ 1112  31/03/24 02:01:13 adb devices
+ 1113  31/03/24 02:01:13 lsusb
+ 1114  31/03/24 02:01:13 npm install --save react-navigation
+ 1115  31/03/24 02:01:13 ./gradle clean
+ 1116  31/03/24 02:01:13 ./gradlew clean
+ 1117  31/03/24 02:01:13 .\gradlew clean
+ 1118  31/03/24 02:01:13 npm start --reset-cache
+ 1119  31/03/24 02:01:13 npm run android
+ 1120  31/03/24 02:01:13 npm start
+ 1121  31/03/24 02:01:13 cd ,,
+ 1122  31/03/24 02:01:13 cd ..
+ 1123  31/03/24 02:01:13 subl .
+ 1124  31/03/24 02:01:13 npm install --save react-navigation
+ 1125  31/03/24 02:01:13 npm i @react-navigation/native-stack
+ 1126  31/03/24 02:01:13 npm start
+ 1127  31/03/24 02:01:13 expo start -c
+ 1128  31/03/24 02:01:13 npm start --reset-cache
+ 1129  31/03/24 02:01:13 dir 
+ 1130  31/03/24 02:01:13 cd ..
+ 1131  31/03/24 02:01:13 npx react-native@latest init ParkitRNApp1.0
+ 1132  31/03/24 02:01:13 npx react-native@latest init ParkitRNApp1
+ 1133  31/03/24 02:01:13 dir
+ 1134  31/03/24 02:01:13 cd ParkitRNApp
+ 1135  31/03/24 02:01:13 npm install react-native-gesture-handler react-native-reanimated
+ 1136  31/03/24 02:01:13 npm start --reset-cache
+ 1137  31/03/24 02:01:13 expo-cli
+ 1138  31/03/24 02:01:13 eas-cli
+ 1139  31/03/24 02:01:13 npm start --reset-cache
+ 1140  31/03/24 02:01:13 npm install -g create-react-native-app
+ 1141  31/03/24 02:01:13 npm -v
+ 1142  31/03/24 02:01:13 node -v
+ 1143  31/03/24 02:01:13 npm install -g create-react-native-app
+ 1144  31/03/24 02:01:13 create-react-native-app ParkitRNApp
+ 1145  31/03/24 02:01:13 cd ParkitRNApp
+ 1146  31/03/24 02:01:13 react-native
+ 1147  31/03/24 02:01:13 source ~/.bashrc
+ 1148  31/03/24 02:01:13 react-native
+ 1149  31/03/24 02:01:13 npm install -g --save react-native
+ 1150  31/03/24 02:01:13 react-native run-android
+ 1151  31/03/24 02:01:13 npm uninstall -g react-native-cli @react-native-community/cli
+ 1152  31/03/24 02:01:13 cd ..
+ 1153  31/03/24 02:01:13 rm -rf ParkitRNApp
+ 1154  31/03/24 02:01:13 dir
+ 1155  31/03/24 02:01:13 npx react-native@latest init AwesomeProject
+ 1156  31/03/24 02:01:13 npx react-native@latest init ParkitRNApp
+ 1157  31/03/24 02:01:13 sudo nano  ~/.bashrc
+ 1158  31/03/24 02:01:13 npm start
+ 1159  31/03/24 02:01:13 cd ParkitRNApp
+ 1160  31/03/24 02:01:13 npm start
+ 1161  31/03/24 02:01:13 sudo update-alternatives --config java
+ 1162  31/03/24 02:01:13 sudo update-alternatives --config javac
+ 1163  31/03/24 02:01:13 npm start
+ 1164  31/03/24 02:01:13 sudo update-alternatives --config java
+ 1165  31/03/24 02:01:13 sudo update-alternatives --config javac
+ 1166  31/03/24 02:01:13 npm start
+ 1167  31/03/24 02:01:13 sudo update-alternatives --config javac
+ 1168  31/03/24 02:01:13 sudo update-alternatives --config java
+ 1169  31/03/24 02:01:13 npm start
+ 1170  31/03/24 02:01:13 cd ..
+ 1171  31/03/24 02:01:13 rm -rf ParkitRNApp
+ 1172  31/03/24 02:01:13 sudo rm -rf ParkitRNApp
+ 1173  31/03/24 02:01:13 sudo rm --rf ParkitRNApp
+ 1174  31/03/24 02:01:13 sudo rm -rf ParkitRNApp
+ 1175  31/03/24 02:01:13 dir
+ 1176  31/03/24 02:01:13 sudo rm -rf ParkitRNApp
+ 1177  31/03/24 02:01:13 npx react-native@latest init ParkitRNApp
+ 1178  31/03/24 02:01:13 cd ParkitRNApp
+ 1179  31/03/24 02:01:13 npm start
+ 1180  31/03/24 02:01:13 npm run --device
+ 1181  31/03/24 02:01:13 npm run-android
+ 1182  31/03/24 02:01:13 npm run android
+ 1183  31/03/24 02:01:13 npm start 
+ 1184  31/03/24 02:01:13 npm run android
+ 1185  31/03/24 02:01:13 npm run android --device
+ 1186  31/03/24 02:01:13 npm start
+ 1187  31/03/24 02:01:13 npm install react-native-screens
+ 1188  31/03/24 02:01:13 npx pod-install
+ 1189  31/03/24 02:01:13 npm clean
+ 1190  31/03/24 02:01:13 npm lint
+ 1191  31/03/24 02:01:13 npm start
+ 1192  31/03/24 02:01:13 npx react-native start
+ 1193  31/03/24 02:01:13 npm install --save react-native-safe-area-context
+ 1194  31/03/24 02:01:13 npx react-native start
+ 1195  31/03/24 02:01:13 npm install @react-navigation/native @react-navigation/drawer
+ 1196  31/03/24 02:01:13 npx react-native start
+ 1197  31/03/24 02:01:13 npm install react-native-gesture-handler react-native-reanimated
+ 1198  31/03/24 02:01:13 npx react-native start
+ 1199  31/03/24 02:01:13 npm start --reset-cache
+ 1200  31/03/24 02:01:13 npm install react-native-reanimated
+ 1201  31/03/24 02:01:13 npm start --reset-cache
+ 1202  31/03/24 02:01:13 cd ..
+ 1203  31/03/24 02:01:13 npm start --reset-cache
+ 1204  31/03/24 02:01:13 npx react-native@latest ParkitApp1
+ 1205  31/03/24 02:01:13 npx react-native@latest init ParkitApp1 -e with-reanimated
+ 1206  31/03/24 02:01:13 npx create-expo-app@latest my-app -e with-reanimated
+ 1207  31/03/24 02:01:13 npm run android
+ 1208  31/03/24 02:01:13 cd my-app
+ 1209  31/03/24 02:01:13 npm run android
+ 1210  31/03/24 02:01:13 cd ..
+ 1211  31/03/24 02:01:13 dir
+ 1212  31/03/24 02:01:13 sudo rm -rf my-app
+ 1213  31/03/24 02:01:13 sudo rm -rf ParkitApp1.0.0
+ 1214  31/03/24 02:01:13 dir
+ 1215  31/03/24 02:01:13 npx react-native init MyApp
+ 1216  31/03/24 02:01:13 cd MyApp
+ 1217  31/03/24 02:01:13 dir
+ 1218  31/03/24 02:01:13 npm start
+ 1219  31/03/24 02:01:13 subl .
+ 1220  31/03/24 02:01:13 npm start --reset-cache
+ 1221  31/03/24 02:01:13 npm install @react-navigation/native @react-navigation/drawer
+ 1222  31/03/24 02:01:13 npm start --reset-cache
+ 1223  31/03/24 02:01:13 npm install react-native-reanimated
+ 1224  31/03/24 02:01:13 npm start --reset-cache
+ 1225  31/03/24 02:01:13 cd ..
+ 1226  31/03/24 02:01:13 sudo rm -rf MyApp
+ 1227  31/03/24 02:01:13 dir
+ 1228  31/03/24 02:01:13 npx create-expo-app@latest my-app -e with-reanimated
+ 1229  31/03/24 02:01:13 cd my-app
+ 1230  31/03/24 02:01:13 npm run android
+ 1231  31/03/24 02:01:13 subl .
+ 1232  31/03/24 02:01:13 npm run android
+ 1233  31/03/24 02:01:13 cd Downloads
+ 1234  31/03/24 02:01:13 sudo dpkg -i discord-0.0.47.deb
+ 1235  31/03/24 02:01:13 subl .
+ 1236  31/03/24 02:01:13 cd ..
+ 1237  31/03/24 02:01:13 git clone https://github.com/ChiaHouTan/CarParkingMap.git
+ 1238  31/03/24 02:01:13 cd CarParkingMap
+ 1239  31/03/24 02:01:13 npm start
+ 1240  31/03/24 02:01:13 npm install
+ 1241  31/03/24 02:01:13 npm start
+ 1242  31/03/24 02:01:13 subl .
+ 1243  31/03/24 02:01:13 npm i react-navigation
+ 1244  31/03/24 02:01:13 npm -i native-base
+ 1245  31/03/24 02:01:13 npm i native-base
+ 1246  31/03/24 02:01:13 cd ..
+ 1247  31/03/24 02:01:13 cd ParkitRNApp
+ 1248  31/03/24 02:01:13 npm start
+ 1249  31/03/24 02:01:13 git init
+ 1250  31/03/24 02:01:13 git commit -m "1st commit"
+ 1251  31/03/24 02:01:13 git add .
+ 1252  31/03/24 02:01:13 git commit -m "1st commit"
+ 1253  31/03/24 02:01:13 git branch -M main
+ 1254  31/03/24 02:01:13 git remote add origin https://github.com/ovidiujordache/ParkitRNApp.git
+ 1255  31/03/24 02:01:13 git push -u origin main
+ 1256  31/03/24 02:01:13 npm run
+ 1257  31/03/24 02:01:13 npm start
+ 1258  31/03/24 02:01:13 sudo reboot
+ 1259  31/03/24 02:01:13 sudo dpkg -i virtualbox-7.0_7.0.14-161095~Debian~bullseye_amd64.deb
+ 1260  31/03/24 02:01:13 sudo apt install --fix-broken
+ 1261  31/03/24 02:01:13 sudo dpkg -i virtualbox-7.0_7.0.14-161095~Debian~bullseye_amd64.deb
+ 1262  31/03/24 02:01:13 sudo apt update
+ 1263  31/03/24 02:01:13 sudo apt upgrade
+ 1264  31/03/24 02:01:13 sudo nano /etc/apt/sources.list
+ 1265  31/03/24 02:01:13 sudo apt upgrade
+ 1266  31/03/24 02:01:13 sudo nano /etc/apt/sources.list.d
+ 1267  31/03/24 02:01:13 openssl version -a
+ 1268  31/03/24 02:01:13 sudo apt install build-essential checkinstall zlib1g-dev
+ 1269  31/03/24 02:01:13 sudo apt install libssl1.1=1.1.1w-0+deb11u1
+ 1270  31/03/24 02:01:13 sudo apt install libssl1.1=1.1.1w-0+deb11u1sudo dpkg -i --force-overwrite /var/cache/apt/archives/libssl1.1_1.1.1w-0+deb11u1_amd64.deb
+ 1271  31/03/24 02:01:13 sudo dpkg -i --force-overwrite /var/cache/apt/archives/libssl1.1_1.1.1w-0+deb11u1_amd64.deb
+ 1272  31/03/24 02:01:13 sudo apt --fix-broken install
+ 1273  31/03/24 02:01:13 sudo apt install libnode72 libssl-dev
+ 1274  31/03/24 02:01:13 sudo apt upgrade
+ 1275  31/03/24 02:01:13 vboxmanage
+ 1276  31/03/24 02:01:13 VBoxManage modifyvm "CatalinaOS" --cpuidset 00000001 000106e5 0098e3fd bfebfbff
+ 1277  31/03/24 02:01:13 VBoxManage modifyvm "CatalinaOS" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1278  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/efi/o/Config/DmiSystemProduct" "iMac19,1"
+ 1279  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/efi/o/Config/DmiSystemVersion" "1.0"
+ 1280  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/efi/o/Config/DmiBoardProduct" "Mac-AA95B1DDAB278B95"
+ 1281  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/SMC/0/Config/DeviceKey" 
+ 1282  31/03/24 02:01:13 VBoxManage setextradata "Mac 2 Trial" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+ 1283  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+ 1284  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+ 1285  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" VBoxInternal2/EfiGraphicsResolution 1920x1080
+ 1286  31/03/24 02:01:13 VBoxManage modifyvm "CatalinaOS" --cpu-profile "Intel Core i7-6700K"
+ 1287  31/03/24 02:01:13 VBoxManage.exe modifyvm "CatalinaOS" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1288  31/03/24 02:01:13 VBoxManage  modifyvm "CatalinaOS" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1289  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac19,1"
+ 1290  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
+ 1291  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Mac-AA95B1DDAB278B95"
+ 1292  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+ 1293  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+ 1294  31/03/24 02:01:13 VBoxManage setextradata "CatalinaOS" VBoxInternal2/EfiGraphicsResolution 1920x1080
+ 1295  31/03/24 02:01:13 VBoxManage modifyvm "CatalinaOS" --cpu-profile "Intel Core i7-6700K"
+ 1296  31/03/24 02:01:13 VBoxManage.exe modifyvm "Lion" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1297  31/03/24 02:01:13 VBoxManage  modifyvm "Lion" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1298  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac19,3"
+ 1299  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
+ 1300  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
+ 1301  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+ 1302  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+ 1303  31/03/24 02:01:13 VBoxManage.exe modifyvm "Ventura" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1304  31/03/24 02:01:13 VBoxManage modifyvm "Ventura" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1305  31/03/24 02:01:13 VBoxManage setextradata "Ventura" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac19,3"
+ 1306  31/03/24 02:01:13 VBoxManage setextradata "Ventura" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
+ 1307  31/03/24 02:01:13 VBoxManage setextradata "Ventura" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
+ 1308  31/03/24 02:01:13 VBoxManage setextradata "Ventura" "VBoxInternal/Devices/smc/0/Config/DeviceKey"
+ 1309  31/03/24 02:01:13 VBoxManage setextradata "Ventura" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+ 1310  31/03/24 02:01:13 VBoxManage setextradata "Ventura" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+ 1311  31/03/24 02:01:13 speedtest
+ 1312  31/03/24 02:01:13 VBoxManage modifyvm "Lion" --cpu-profile "Intel Core i7-6700K"
+ 1313  31/03/24 02:01:13 VBoxManage modifyvm "Ventura" --cpu-profile "Intel Core i7-6700K"
+ 1314  31/03/24 02:01:13 VBoxManage setextradata "VM Name" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3"
+ 1315  31/03/24 02:01:13 VBoxManage setextradata "Ventura" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3"
+ 1316  31/03/24 02:01:13 VBoxManage modifyvm "Lion" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1317  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct"
+ 1318  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3"
+ 1319  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
+ 1320  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
+ 1321  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+ 1322  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+ 1323  31/03/24 02:01:13 VBoxManage modifyvm "Lion" --cpu-profile "Intel Core i7-6700K"
+ 1324  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
+ 1325  31/03/24 02:01:13 sudo apt install build-essential dkms linux-headers-$(uname -r)
+ 1326  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
+ 1327  31/03/24 02:01:13 VBoxManage.exe modifyvm "VM Name" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1328  31/03/24 02:01:13 VBoxManage setextradata "VM Name" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3"
+ 1329  31/03/24 02:01:13 VBoxManage setextradata "VM Name" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
+ 1330  31/03/24 02:01:13 VBoxManage setextradata "VM Name" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
+ 1331  31/03/24 02:01:13 VBoxManage setextradata "VM Name" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+ 1332  31/03/24 02:01:13 VBoxManage setextradata "VM Name" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+ 1333  31/03/24 02:01:13 VBoxManage modifyvm "VM Name" --cpu-profile "Intel Core i7-6700K"
+ 1334  31/03/24 02:01:13 VBoxManage.exe modifyvm "Monterey" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1335  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3"
+ 1336  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
+ 1337  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
+ 1338  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+ 1339  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+ 1340  31/03/24 02:01:13 VBoxManage modifyvm "Monterey" --cpu-profile "Intel Core i7-6700K"
+ 1341  31/03/24 02:01:13 VBoxManage modifyvm "Monterey" --cpu-profile "Intel Core i7-6700K"VBoxManage modifyvm "Monterey" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1342  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3"
+ 1343  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
+ 1344  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
+ 1345  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+ 1346  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+ 1347  31/03/24 02:01:13 VBoxManage modifyvm "Monterey" --cpu-profile "Intel Core i7-6700K"
+ 1348  31/03/24 02:01:13 VBoxManage modifyvm "Monterey" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1349  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1 && VBoxManage modifyvm "Monterey" --cpu-profile "Intel Core i7-6700K"
+ 1350  31/03/24 02:01:13 VBoxManage modifyvm "Monterey" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1 && VBoxManage modifyvm "Monterey" --cpu-profile "Intel Core i7-6700K"
+ 1351  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
+ 1352  31/03/24 02:01:13 VBoxManage modifyvm "Monterey" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1 && VBoxManage modifyvm "Monterey" --cpu-profile "Intel Core i7-6700K"
+ 1353  31/03/24 02:01:13 VBoxManage setextradata "Lion" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
+ 1354  31/03/24 02:01:13 VBoxManage modifyvm "Monterey" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1 && VBoxManage modifyvm "Monterey" --cpu-profile "Intel Core i7-6700K" && VBoxManage setextradata "Monterey" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
+ 1355  31/03/24 02:01:13 VBoxManage modifyvm "Monterey" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" && VBoxManage setextradata "Monterey" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1 && VBoxManage modifyvm "Monterey" --cpu-profile "Intel Core i7-6700K" && VBoxManage setextradata "Monterey" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
+ 1356  31/03/24 02:01:13 subl .
+ 1357  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal2/EfiGraphicsResolution" "1920x1080"
+ 1358  31/03/24 02:01:13 exit
+ 1359  31/03/24 02:01:13 docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:monterey
+ 1360  31/03/24 02:01:13 d
+ 1361  31/03/24 02:01:13 docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:ventura
+ 1362  31/03/24 02:01:13 # docker build -t docker-osx --build-arg SHORTNAME=ventura .
+ 1363  31/03/24 02:01:13 docker --helo
+ 1364  31/03/24 02:01:13 docker --help
+ 1365  31/03/24 02:01:13 ls -ld /tmp/.X11-unix
+ 1366  31/03/24 02:01:13 sudo docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:ventura
+ 1367  31/03/24 02:01:13 cd media
+ 1368  31/03/24 02:01:13 cd /media
+ 1369  31/03/24 02:01:13 dir
+ 1370  31/03/24 02:01:13 cd ovi
+ 1371  31/03/24 02:01:13 dir
+ 1372  31/03/24 02:01:13 cd Development_WX
+ 1373  31/03/24 02:01:13 dir
+ 1374  31/03/24 02:01:13 sudo 
+ 1375  31/03/24 02:01:13 docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:monterey
+ 1376  31/03/24 02:01:13 # docker build -t docker-osx --build-arg SHORTNAME=monterey .
+ 1377  31/03/24 02:01:13 sudo docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:monterey
+ 1378  31/03/24 02:01:13 dir
+ 1379  31/03/24 02:01:13 lcs
+ 1380  31/03/24 02:01:13 cd ~
+ 1381  31/03/24 02:01:13 dir
+ 1382  31/03/24 02:01:13 sudo shutdown  now
+ 1383  31/03/24 02:01:13 sudo apt remove docker
+ 1384  31/03/24 02:01:13 cd /tmp
+ 1385  31/03/24 02:01:13 ls
+ 1386  31/03/24 02:01:13 cd ..
+ 1387  31/03/24 02:01:13 dir
+ 1388  31/03/24 02:01:13 docker
+ 1389  31/03/24 02:01:13 docker kill
+ 1390  31/03/24 02:01:13 sudo systemctl stop docker
+ 1391  31/03/24 02:01:13 sudo systemctl status docker
+ 1392  31/03/24 02:01:13 docker system prune
+ 1393  31/03/24 02:01:13 dpkg -l | grep -i docker
+ 1394  31/03/24 02:01:13 sudo apt-get purge -y docker-endgine docker docker.io docker-ce docker-ce-cli
+ 1395  31/03/24 02:01:13 sudo apt-get autoremove
+ 1396  31/03/24 02:01:13 sudo apt-get autoremove -y --purge docler-engine docker.io docker-ce
+ 1397  31/03/24 02:01:13 find /tmp -mtime +1 -and -not -exec fuser -s {} ';' -and -exec echo {} ';'
+ 1398  31/03/24 02:01:13 sudo find /tmp -mtime +1 -and -not -exec fuser -s {} ';' -and -exec echo {} ';'
+ 1399  31/03/24 02:01:13 sudo find /tmp -mtime +2 -and -not -exec fuser -s {} ';' -and -exec echo {} ';'
+ 1400  31/03/24 02:01:13 sudo find /tmp -mtime +2 -and -not -exec fuser -s {} ';' -and -exec echo {} ';'cd /var
+ 1401  31/03/24 02:01:13 du -k
+ 1402  31/03/24 02:01:13 apt autoremove
+ 1403  31/03/24 02:01:13 sudo apt autoremove
+ 1404  31/03/24 02:01:13 sudo dh -sb 
+ 1405  31/03/24 02:01:13 sudo du -sh 
+ 1406  31/03/24 02:01:13 sudo du -sh  /
+ 1407  31/03/24 02:01:13 sudo du -h
+ 1408  31/03/24 02:01:13 sudo lsof  / | deleted
+ 1409  31/03/24 02:01:13 sudo systemctl reload daemon
+ 1410  31/03/24 02:01:13 sudo df -i 
+ 1411  31/03/24 02:01:13 docker system prune
+ 1412  31/03/24 02:01:13 systemctl docker status 
+ 1413  31/03/24 02:01:13 systemctl  status docker
+ 1414  31/03/24 02:01:13 systemctl  start docker
+ 1415  31/03/24 02:01:13 systemctl  status docker
+ 1416  31/03/24 02:01:13 docker system prune
+ 1417  31/03/24 02:01:13 docker volume rm $(docker volume ls -qf damgling=true)
+ 1418  31/03/24 02:01:13 docker volume rm $(docker volume ls -qf damgling=true)docker 
+ 1419  31/03/24 02:01:13 docker volume ls -qf dangling=true
+ 1420  31/03/24 02:01:13 sudo reboot
+ 1421  31/03/24 02:01:13 c /tmp
+ 1422  31/03/24 02:01:13 cd /tmp
+ 1423  31/03/24 02:01:13 ls
+ 1424  31/03/24 02:01:13 cd /var
+ 1425  31/03/24 02:01:13 ls
+ 1426  31/03/24 02:01:13 ls ./tmp
+ 1427  31/03/24 02:01:13 cd ~
+ 1428  31/03/24 02:01:13 flatpack list --ap
+ 1429  31/03/24 02:01:13 flatpack list --app
+ 1430  31/03/24 02:01:13 sudo flatpack list --app
+ 1431  31/03/24 02:01:13 sudo apt-get autoclean
+ 1432  31/03/24 02:01:13 sudo apt-get autoremove
+ 1433  31/03/24 02:01:13 sudo nano /etc/apt/sources.list.d/steam-stable
+ 1434  31/03/24 02:01:13 sudo apt-get autoremove
+ 1435  31/03/24 02:01:13 sudo nano /etc/apt/sources.list.d/steam-stable.list:1
+ 1436  31/03/24 02:01:13 sudo apt-get autoremove
+ 1437  31/03/24 02:01:13 sudo nano /etc/apt/sources.list.d/steam-stable.list
+ 1438  31/03/24 02:01:13 sudo rm /etc/apt/sources.list.d/steam-stable.list
+ 1439  31/03/24 02:01:13 sudo apt-get autoremove
+ 1440  31/03/24 02:01:13 sudo apt autoclean
+ 1441  31/03/24 02:01:13 df -i
+ 1442  31/03/24 02:01:13 sudo linux-purge  --fix
+ 1443  31/03/24 02:01:13 sudo apt install --fix-broken
+ 1444  31/03/24 02:01:13 sudo cfdisk
+ 1445  31/03/24 02:01:13 sudo fdisk
+ 1446  31/03/24 02:01:13 gparted
+ 1447  31/03/24 02:01:13 sudo gparted
+ 1448  31/03/24 02:01:13 sudo reboot
+ 1449  31/03/24 02:01:13 systemctl docker disable
+ 1450  31/03/24 02:01:13 systemctl disable docker
+ 1451  31/03/24 02:01:13 sudo systemctl disable docker
+ 1452  31/03/24 02:01:13 sudo reboot
+ 1453  31/03/24 02:01:13 sudo apt remove --purge docker
+ 1454  31/03/24 02:01:13 ls
+ 1455  31/03/24 02:01:13 ls vmware
+ 1456  31/03/24 02:01:13 ls
+ 1457  31/03/24 02:01:13 cls
+ 1458  31/03/24 02:01:13 ls
+ 1459  31/03/24 02:01:13 ls 'Virtual Box VMs'
+ 1460  31/03/24 02:01:13 ls "Virtual Box VMs"
+ 1461  31/03/24 02:01:13 ls "VirtualBox VMs"
+ 1462  31/03/24 02:01:13 ls /etc
+ 1463  31/03/24 02:01:13 ls /etc/docker
+ 1464  31/03/24 02:01:13 ls /etc | less
+ 1465  31/03/24 02:01:13 ls /var
+ 1466  31/03/24 02:01:13 ls /var/cache
+ 1467  31/03/24 02:01:13 ls /var/cache/fwupdmgr
+ 1468  31/03/24 02:01:13 sudo ls /var/cache/fwupdmgr
+ 1469  31/03/24 02:01:13 sudo ls /var/tmp
+ 1470  31/03/24 02:01:13 sudo rm -rf /var/tmp
+ 1471  31/03/24 02:01:13 sudo ls /var/tmp
+ 1472  31/03/24 02:01:13 cd var
+ 1473  31/03/24 02:01:13 cd /var
+ 1474  31/03/24 02:01:13 ls
+ 1475  31/03/24 02:01:13 cd tmp
+ 1476  31/03/24 02:01:13 ls
+ 1477  31/03/24 02:01:13 cd cache
+ 1478  31/03/24 02:01:13 ls
+ 1479  31/03/24 02:01:13 rm -rf *
+ 1480  31/03/24 02:01:13 sudo rm -rf *
+ 1481  31/03/24 02:01:13 ls
+ 1482  31/03/24 02:01:13 rudo reboot
+ 1483  31/03/24 02:01:13 sudo reboot
+ 1484  31/03/24 02:01:13 ls /usr/share
+ 1485  31/03/24 02:01:13 ls /usr/share/Wolfram
+ 1486  31/03/24 02:01:13 cd  /usr/share/Wolfram
+ 1487  31/03/24 02:01:13 ls
+ 1488  31/03/24 02:01:13 sudo rm -rf Wolfram
+ 1489  31/03/24 02:01:13 ls
+ 1490  31/03/24 02:01:13 cd ..
+ 1491  31/03/24 02:01:13 sudo rm -rf Wolfram
+ 1492  31/03/24 02:01:13 ls
+ 1493  31/03/24 02:01:13 sudo systemctl status docker
+ 1494  31/03/24 02:01:13 sudo docker system prune
+ 1495  31/03/24 02:01:13 sudo docker system prune -a
+ 1496  31/03/24 02:01:13 docker images -f dangling=true
+ 1497  31/03/24 02:01:13 systemctl status docker
+ 1498  31/03/24 02:01:13 wolfram
+ 1499  31/03/24 02:01:13 whereis wolfram
+ 1500  31/03/24 02:01:13 cd ~
+ 1501  31/03/24 02:01:13 sudo rm /usr/local/Wolfram/Mathematica
+ 1502  31/03/24 02:01:13 sudo rm /local/bin/Wolfram
+ 1503  31/03/24 02:01:13 sudo rm /usr/local/bin/Wolfram
+ 1504  31/03/24 02:01:13 sudo rm /usr/local/bin/wolfram
+ 1505  31/03/24 02:01:13 whereis wolfram
+ 1506  31/03/24 02:01:13 sudo rm -rf ~/.cache/Wolfram
+ 1507  31/03/24 02:01:13 sudo rm -rf ~/.Mathematica
+ 1508  31/03/24 02:01:13 dpkg -l | grep -i docker
+ 1509  31/03/24 02:01:13 sudo apt-get purge -y docker-engine docker docker.io docker-ce docker-ce-cli
+ 1510  31/03/24 02:01:13 sudo apt-get autoremove -y --purge docker-engine docker docker.io docker-ce  
+ 1511  31/03/24 02:01:13 sudo rm -rf /var/lib/docker /etc/docker
+ 1512  31/03/24 02:01:13 sudo rm /etc/apparmor.d/docker
+ 1513  31/03/24 02:01:13 sudo groupdel docker
+ 1514  31/03/24 02:01:13 sudo rm -rf /var/run/docker.sock
+ 1515  31/03/24 02:01:13 docker rmi $(docker images -a -q)
+ 1516  31/03/24 02:01:13 sudo reboot
+ 1517  31/03/24 02:01:13 for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; done
+ 1518  31/03/24 02:01:13 sudo apt update
+ 1519  31/03/24 02:01:13 sudo apt upgrade
+ 1520  31/03/24 02:01:13 sudo apt dist-upgrade
+ 1521  31/03/24 02:01:13 sudo apt-get install ca-certificates curl
+ 1522  31/03/24 02:01:13 sudo install -m 0755 -d /etc/apt/keyrings
+ 1523  31/03/24 02:01:13 sudo curl -fsSL https://download.docker.com/linux/debian/gpg -o /etc/apt/keyrings/docker.asc
+ 1524  31/03/24 02:01:13 sudo chmod a+r /etc/apt/keyrings/docker.asc
+ 1525  31/03/24 02:01:13 echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/debian \
+ 1526  31/03/24 02:01:13   $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+ 1527  31/03/24 02:01:13 sudo apt-get update
+ 1528  31/03/24 02:01:13 (. /etc/os-release && echo "$VERSION_CODENAME")
+ 1529  31/03/24 02:01:13 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+ 1530  31/03/24 02:01:13 docker run hello-world
+ 1531  31/03/24 02:01:13 sudo docker run hello-world
+ 1532  31/03/24 02:01:13 modprobe kvm
+ 1533  31/03/24 02:01:13 sudo modprobe kvm
+ 1534  31/03/24 02:01:13 sudo modprobe kvm_amd
+ 1535  31/03/24 02:01:13 lsmod | grep kvm
+ 1536  31/03/24 02:01:13 kvm_amd               167936  0
+ 1537  31/03/24 02:01:13 ccp                   126976  1 kvm_amd
+ 1538  31/03/24 02:01:13 kvm                  1089536  1 kvm_amd
+ 1539  31/03/24 02:01:13 irqbypass              16384  1 kvm
+ 1540  31/03/24 02:01:13 lsmod | grep kvm
+ 1541  31/03/24 02:01:13 sudo usermod -aG kvm $USER
+ 1542  31/03/24 02:01:13 sudo reboot
+ 1543  31/03/24 02:01:13 systemctl status docker
+ 1544  31/03/24 02:01:13 cd Downloads
+ 1545  31/03/24 02:01:13 sudo dpkg -i docker-desktop-4.28.0-amd64.deb
+ 1546  31/03/24 02:01:13 sudo apt install --fix-broken
+ 1547  31/03/24 02:01:13 sudo dpkg -i docker-desktop-4.28.0-amd64.deb
+ 1548  31/03/24 02:01:13 sudo docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:ventura
+ 1549  31/03/24 02:01:13 dpkg -l | grep -i docker
+ 1550  31/03/24 02:01:13 sudo apt-get purge -y docker-engine docker docker.io docker-ce docker-ce-cli
+ 1551  31/03/24 02:01:13 sudo apt-get autoremove -y --purge docker-engine docker docker.io docker-ce  
+ 1552  31/03/24 02:01:13 sudo rm -rf /var/lib/docker /etc/docker && sudo rm /etc/apparmor.d/docker && sudo groupdel docker && sudo rm -rf /var/run/docker.sock 
+ 1553  31/03/24 02:01:13 sudo rm -rf /var/lib/docker /etc/docker && sudo rm /etc/apparmor.d/docker && sudo groupdel docker && sudo rm -rf /var/run/docker.socket
+ 1554  31/03/24 02:01:13 docker rmi $(docker images -a -q)
+ 1555  31/03/24 02:01:13 docker rm $(docker ps -a -f status=exited -q)
+ 1556  31/03/24 02:01:13 docker stop $(docker ps -a -q)
+ 1557  31/03/24 02:01:13 docker rm $(docker ps -a -q)
+ 1558  31/03/24 02:01:13 docker network prune
+ 1559  31/03/24 02:01:13 docker prune
+ 1560  31/03/24 02:01:13 docker system prune -a
+ 1561  31/03/24 02:01:13 dpkg -r urserver
+ 1562  31/03/24 02:01:13 sudo dpkg -r urserver
+ 1563  31/03/24 02:01:13 ls /etc/docker
+ 1564  31/03/24 02:01:13 ls /etc/docker-desktop
+ 1565  31/03/24 02:01:13 ls /etc/dockerdesktop
+ 1566  31/03/24 02:01:13 ls /etc/docker.desktop
+ 1567  31/03/24 02:01:13 dpkg -l
+ 1568  31/03/24 02:01:13 cls
+ 1569  31/03/24 02:01:13 dpkg -l | grep docker
+ 1570  31/03/24 02:01:13 sudo dpkg -r docker
+ 1571  31/03/24 02:01:13 sudo dpkg -r docker-desktop
+ 1572  31/03/24 02:01:13 sudo dpkg -r docker-buildx-plugin
+ 1573  31/03/24 02:01:13 sudo dpkg -r docker-ce
+ 1574  31/03/24 02:01:13 sudo dpkg -r docker-ce-cli
+ 1575  31/03/24 02:01:13 sudo dpkg -r docker-ce-rootless-extras
+ 1576  31/03/24 02:01:13 sudo dpkg -r docker-compose-plugin
+ 1577  31/03/24 02:01:13 sudo apt autoclean
+ 1578  31/03/24 02:01:13 sudo apt autoremove
+ 1579  31/03/24 02:01:13 docker
+ 1580  31/03/24 02:01:13 whereisdocker
+ 1581  31/03/24 02:01:13 wich docker
+ 1582  31/03/24 02:01:13 docker system prune -a
+ 1583  31/03/24 02:01:13 sudo reboot
+ 1584  31/03/24 02:01:13 sudo apt update
+ 1585  31/03/24 02:01:13 sudo install -m 0755 -d /etc/apt/keyrings
+ 1586  31/03/24 02:01:13 sudo curl -fsSL https://download.docker.com/linux/debian/gpg -o /etc/apt/keyrings/docker.asc
+ 1587  31/03/24 02:01:13 sudo chmod a+r /etc/apt/keyrings/docker.asc
+ 1588  31/03/24 02:01:13 echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/debian \
+ 1589  31/03/24 02:01:13   $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+ 1590  31/03/24 02:01:13 sudo apt-get update
+ 1591  31/03/24 02:01:13 (. /etc/os-release && echo "$VERSION_CODENAME")
+ 1592  31/03/24 02:01:13 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+ 1593  31/03/24 02:01:13 sudo docker run hello-world
+ 1594  31/03/24 02:01:13 sudo dpkg -i docker-desktop-4.28.0-amd64.deb
+ 1595  31/03/24 02:01:13 cd Downloads
+ 1596  31/03/24 02:01:13 sudo dpkg -i docker-desktop-4.28.0-amd64.deb
+ 1597  31/03/24 02:01:13 sudo apt install --fix-broken
+ 1598  31/03/24 02:01:13 sudo apt-get install qemu uml-utilities virt-manager git     wget libguestfs-tools p7zip-full make dmg2img tesseract-ocr     tesseract-ocr-eng genisoimage -y
+ 1599  31/03/24 02:01:13 docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:monterey
+ 1600  31/03/24 02:01:13 cd /var/lib
+ 1601  31/03/24 02:01:13 cd docker
+ 1602  31/03/24 02:01:13 sudo cd docker
+ 1603  31/03/24 02:01:13 sudo -i
+ 1604  31/03/24 02:01:13 VBoxManage setextradata "Monterey" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
+ 1605  31/03/24 02:01:13 VBoxManage modifyvm "VM Name" –-cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff && VBoxManage setextradata "VM Name" VBoxInternal/Devices/efi/0/Config/DmiSystemProduct “MacBookPro15,1” && VBoxManage setextradata "VM Name" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Mac-551B86E5744E2388" && VBoxManage setextradata "VM Name" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" && VBoxManage setextradata "VM Name" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 0
+ 1606  31/03/24 02:01:13 VBoxManage modifyvm "Sonoma" –-cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff && VBoxManage setextradata "Sonoma" VBoxInternal/Devices/efi/0/Config/DmiSystemProduct “MacBookPro15,1” && VBoxManage setextradata "Sonoma" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Mac-551B86E5744E2388" && VBoxManage setextradata "Sonoma" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" && VBoxManage setextradata "Sonoma" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 0
+ 1607  31/03/24 02:01:13 cls
+ 1608  31/03/24 02:01:13 VBoxManage modifyvm "Sonoma" –-cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1609  31/03/24 02:01:13 VBoxManage modifyvm "Sonoma" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+ 1610  31/03/24 02:01:13 VBoxManage setextradata "Sonoma" VBoxInternal/Devices/efi/0/Config/DmiSystemProduct “MacBookPro15,1” && VBoxManage setextradata "Sonoma" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Mac-551B86E5744E2388" && VBoxManage setextradata "Sonoma" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" && VBoxManage setextradata "Sonoma" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 0
+ 1611  31/03/24 02:01:13 VBoxManage modifyvm "Sonoma" --cpu-profile "Intel Core i7-6700K"
+ 1612  31/03/24 02:01:13 sudo modprobe -r kvm_amd  # For AMD processors
+ 1613  31/03/24 02:01:13 sudo modprobe -r kvm_amd  
+ 1614  31/03/24 02:01:13 sudo reboot
+ 1615  31/03/24 02:01:13 docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:monterey
+ 1616  31/03/24 02:01:13 sudo docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:monterey
+ 1617  31/03/24 02:01:13 docker images
+ 1618  31/03/24 02:01:13 docker containers
+ 1619  31/03/24 02:01:13 docker container
+ 1620  31/03/24 02:01:13 docker container ls
+ 1621  31/03/24 02:01:13 cls
+ 1622  31/03/24 02:01:13 docker images
+ 1623  31/03/24 02:01:13 sudo docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:monterey
+ 1624  31/03/24 02:01:13 sudo docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     /sickcodes/docker-osx:monterey
+ 1625  31/03/24 02:01:13 sudo docker run -it     --device /dev/kvm     -p 50922:10022     -v /tmp/.X11-unix:/tmp/.X11-unix     -e "DISPLAY=${DISPLAY:-:0.0}"     -e GENERATE_UNIQUE=true     -e MASTER_PLIST_URL='https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist'     sickcodes/docker-osx:monterey
+ 1626  31/03/24 02:01:13 docker images
+ 1627  31/03/24 02:01:13 docker container ls
+ 1628  31/03/24 02:01:13 docker ps
+ 1629  31/03/24 02:01:13 docker volume ls
+ 1630  31/03/24 02:01:13 du -sh /var/lib/docker/volumes/7e9ab696d407f30a4cb4fdad63480ae58ed6ad985f70b49a9ce0dfc4dc374116
+ 1631  31/03/24 02:01:13 sudo du -sh /var/lib/docker/volumes/7e9ab696d407f30a4cb4fdad63480ae58ed6ad985f70b49a9ce0dfc4dc374116"
+ 1632  31/03/24 02:01:13 docker volume rm  7e9ab696d407f30a4cb4fdad63480ae58ed6ad985f70b49a9ce0dfc4dc374116
+ 1633  31/03/24 02:01:13 docker containter ls
+ 1634  31/03/24 02:01:13 docker container ls
+ 1635  31/03/24 02:01:13 sudo systemctl disable
+ 1636  31/03/24 02:01:13 sudo systemctl docker disable
+ 1637  31/03/24 02:01:13 sudo systemctl disable docker
+ 1638  31/03/24 02:01:13 sudo reboot
+ 1639  31/03/24 02:01:13 sudo journalctl -U exim4
+ 1640  31/03/24 02:01:13 sudo nano /etc/exim4/.conf.cong
+ 1641  31/03/24 02:01:13 sudo nano /etc/exim4/.conf.conf
+ 1642  31/03/24 02:01:13 sudo nano /etc/exim4/exim4.conf.conf
+ 1643  31/03/24 02:01:13 sudo nano /etc/exim4/exim4.conf
+ 1644  31/03/24 02:01:13 sudo journalctl -U exim4
+ 1645  31/03/24 02:01:13 dpkg -i | grep exim4
+ 1646  31/03/24 02:01:13 sudo dpkg -i | grep exim4
+ 1647  31/03/24 02:01:13 cd /var
+ 1648  31/03/24 02:01:13 ls
+ 1649  31/03/24 02:01:13 cd lib
+ 1650  31/03/24 02:01:13 ls
+ 1651  31/03/24 02:01:13 ls -a
+ 1652  31/03/24 02:01:13 cd ..
+ 1653  31/03/24 02:01:13 ls
+ 1654  31/03/24 02:01:13 cd tmp
+ 1655  31/03/24 02:01:13 ls
+ 1656  31/03/24 02:01:13 ls -A
+ 1657  31/03/24 02:01:13 ls -a
+ 1658  31/03/24 02:01:13 cd ..
+ 1659  31/03/24 02:01:13 cd opt
+ 1660  31/03/24 02:01:13 ls
+ 1661  31/03/24 02:01:13 dir
+ 1662  31/03/24 02:01:13 cd ..
+ 1663  31/03/24 02:01:13 cd /etc
+ 1664  31/03/24 02:01:13 ls
+ 1665  31/03/24 02:01:13 find -i | grep docker
+ 1666  31/03/24 02:01:13 find -a | grep docker
+ 1667  31/03/24 02:01:13 find  | grep docker
+ 1668  31/03/24 02:01:13 cls
+ 1669  31/03/24 02:01:13 dor
+ 1670  31/03/24 02:01:13 dir
+ 1671  31/03/24 02:01:13 cd apt
+ 1672  31/03/24 02:01:13 ls
+ 1673  31/03/24 02:01:13 dpkg -i | grep docker
+ 1674  31/03/24 02:01:13 sudo dpkg -i | grep docker
+ 1675  31/03/24 02:01:13 sudo dpkg | grep docker
+ 1676  31/03/24 02:01:13 which docker
+ 1677  31/03/24 02:01:13 sudo apt remove docker.io
+ 1678  31/03/24 02:01:13 systemctl status docker
+ 1679  31/03/24 02:01:13 cd /var/lib
+ 1680  31/03/24 02:01:13 ls
+ 1681  31/03/24 02:01:13 ls ./docker
+ 1682  31/03/24 02:01:13 sud ls ./docker
+ 1683  31/03/24 02:01:13 sudo ls ./docker
+ 1684  31/03/24 02:01:13 cd docker
+ 1685  31/03/24 02:01:13 sudo rm -rf  ./docker
+ 1686  31/03/24 02:01:13 ls
+ 1687  31/03/24 02:01:13 sudo reboot
+ 1688  31/03/24 02:01:13 docker system prune
+ 1689  31/03/24 02:01:13 sytemctl status docker
+ 1690  31/03/24 02:01:13 sytemctl start docker
+ 1691  31/03/24 02:01:13 systemctl start docker
+ 1692  31/03/24 02:01:13 systemctl status docker
+ 1693  31/03/24 02:01:13 docker system prune
+ 1694  31/03/24 02:01:13 systemctl stop  docker
+ 1695  31/03/24 02:01:13 docker images -a
+ 1696  31/03/24 02:01:13 ls -l /home/ovi/.docker/desktop/docker.sock
+ 1697  31/03/24 02:01:13 whereisdocler
+ 1698  31/03/24 02:01:13 whereisdocker
+ 1699  31/03/24 02:01:13 whereis docker
+ 1700  31/03/24 02:01:13 sudo rm -rf  /usr/bin/docker
+ 1701  31/03/24 02:01:13 sudo rm -rf  /usr/lib/docker
+ 1702  31/03/24 02:01:13 sudo rm -rf  /etc/docker
+ 1703  31/03/24 02:01:13 sudo rm -rf /usr/local/bin/docker
+ 1704  31/03/24 02:01:13 sudo rm -rf /usr/libexec/docker
+ 1705  31/03/24 02:01:13 sudo rm -rf /usr/share/man/man1/docker.1.fz
+ 1706  31/03/24 02:01:13 sudo rm -rf /usr/share/man/man1/docker.1.gz
+ 1707  31/03/24 02:01:13 whereis docker
+ 1708  31/03/24 02:01:13 which docker
+ 1709  31/03/24 02:01:13 sudo reboot
+ 1710  31/03/24 02:01:13 sudo ./install.sh
+ 1711  31/03/24 02:01:13 sudo ./install-sh
+ 1712  31/03/24 02:01:13 sudo ./compile
+ 1713  31/03/24 02:01:13 cd Development
+ 1714  31/03/24 02:01:13 cd ..
+ 1715  31/03/24 02:01:13 cd Downloads
+ 1716  31/03/24 02:01:13 sudo chmod +x ./mongodb-compass_1.42.3_amd64.deb
+ 1717  31/03/24 02:01:13 sudo apt update
+ 1718  31/03/24 02:01:13 sudo apt upgrade
+ 1719  31/03/24 02:01:13 wget https://downloads.mongodb.com/compass/mongodb-compass_1.28.1_amd64.deb
+ 1720  31/03/24 02:01:13 sudo apt install ./mongodb-compass_1.28.1_amd64.deb
+ 1721  31/03/24 02:01:13 source ~/.bashrc
+ 1722  31/03/24 02:01:13 systemctl status mongodb
+ 1723  31/03/24 02:01:13 systemctl status mongo
+ 1724  31/03/24 02:01:13 sudo reboot
+ 1725  31/03/24 02:01:13 systemctl status docker
+ 1726  31/03/24 02:01:13 cd Downloads
+ 1727  31/03/24 02:01:13 ./Visual_Paradigm_17_1_20240307_Linux64.sh
+ 1728  31/03/24 02:01:13 ./Visual_Paradigm_17_1_20240307_Linux64.shcd ..
+ 1729  31/03/24 02:01:13 cd ~/Development
+ 1730  31/03/24 02:01:13 cd ..
+ 1731  31/03/24 02:01:13 cd Development
+ 1732  31/03/24 02:01:13 dir
+ 1733  31/03/24 02:01:13 cd DEVELOPMENT
+ 1734  31/03/24 02:01:13 ./Visual_Paradigm_17_1_20240307_Linux64.sh
+ 1735  31/03/24 02:01:13 sudo chmod +x ./Visual_Paradigm_17_1_20240307_Linux64.sh
+ 1736  31/03/24 02:01:13 ./Visual_Paradigm_17_1_20240307_Linux64.sh
+ 1737  31/03/24 02:01:13 cd ovi
+ 1738  31/03/24 02:01:13 cd ~/media
+ 1739  31/03/24 02:01:13 cd ~
+ 1740  31/03/24 02:01:13 cd ovi
+ 1741  31/03/24 02:01:13 cd media
+ 1742  31/03/24 02:01:13 cd /media
+ 1743  31/03/24 02:01:13 ls
+ 1744  31/03/24 02:01:13 cd ovi
+ 1745  31/03/24 02:01:13 ls
+ 1746  31/03/24 02:01:13 cd Development_WX
+ 1747  31/03/24 02:01:13 cls
+ 1748  31/03/24 02:01:13 ls
+ 1749  31/03/24 02:01:13 cd PROJECTS_YEAR_4
+ 1750  31/03/24 02:01:13 ls
+ 1751  31/03/24 02:01:13 cls
+ 1752  31/03/24 02:01:13 ls
+ 1753  31/03/24 02:01:13 cd COLLAB_PROJECT
+ 1754  31/03/24 02:01:13 CLS
+ 1755  31/03/24 02:01:13 cls
+ 1756  31/03/24 02:01:13 git branch
+ 1757  31/03/24 02:01:13 cd SmartParking
+ 1758  31/03/24 02:01:13 ls
+ 1759  31/03/24 02:01:13 git branch
+ 1760  31/03/24 02:01:13 subl .
+ 1761  31/03/24 02:01:13 sudo systemctl status mongod
+ 1762  31/03/24 02:01:13 sudo apt install -y mongodb
+ 1763  31/03/24 02:01:13 curl -fsSL https://www.mongodb.org/static/pgp/server-7.0.asc |    sudo gpg -o /usr/share/keyrings/mongodb-server-7.0.gpg    --dearmor
+ 1764  31/03/24 02:01:13 echo "deb [ signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] http://repo.mongodb.org/apt/debian bookworm/mongodb-org/7.0 main" | sudo tee /etc/apt/sources.list.d/mongodb-org-7.0.list
+ 1765  31/03/24 02:01:13 sudo apt update
+ 1766  31/03/24 02:01:13 sudo apt-get install -y mongodb-org
+ 1767  31/03/24 02:01:13 sudo dpkg -i libc6_2.37-15.1_amd64.deb
+ 1768  31/03/24 02:01:13 sudo apt-get install libcurl4 libgssapi-krb5-2 libldap-2.4-2 libwrap0 libsasl2-2 libsasl2-modules libsasl2-modules-gssapi-mit openssl liblzma5
+ 1769  31/03/24 02:01:13 sudo reboot
+ 1770  31/03/24 02:01:13 cd Downloads
+ 1771  31/03/24 02:01:13 sudo dpkg -i libc6_2.31-13+deb11u8_amd64.deb
+ 1772  31/03/24 02:01:13 sudo dpkg -i libc6_2.37-15.1_amd64.deb
+ 1773  31/03/24 02:01:13 sudo apt install --fix-broken
+ 1774  31/03/24 02:01:13 sudo apt install --fix-missing
+ 1775  31/03/24 02:01:13 sudo dpkg -i mongodb-org-server_6.0.14_amd64.deb
+ 1776  31/03/24 02:01:13 systemctl status mongod
+ 1777  31/03/24 02:01:13 systemctl start  mongod
+ 1778  31/03/24 02:01:13 systemctl status mongod
+ 1779  31/03/24 02:01:13 mongodb-compass
+ 1780  31/03/24 02:01:13 ./lnx-install.sh
+ 1781  31/03/24 02:01:13 sudo ./lnx-install.sh
+ 1782  31/03/24 02:01:13 vmware
+ 1783  31/03/24 02:01:13 npm start
+ 1784  31/03/24 02:01:13 jest
+ 1785  31/03/24 02:01:13 npm jest
+ 1786  31/03/24 02:01:13 npm test
+ 1787  31/03/24 02:01:13 npm i react-test-renderer --save-dev
+ 1788  31/03/24 02:01:13 yarn
+ 1789  31/03/24 02:01:13 npm install --global yarn
+ 1790  31/03/24 02:01:13 yarn add jest-expo --dev
+ 1791  31/03/24 02:01:13 npm install
+ 1792  31/03/24 02:01:13 npm start
+ 1793  31/03/24 02:01:13 cd ../..
+ 1794  31/03/24 02:01:13 cd SmartParking
+ 1795  31/03/24 02:01:13 ls
+ 1796  31/03/24 02:01:13 cd ..
+ 1797  31/03/24 02:01:13 ls
+ 1798  31/03/24 02:01:13 cd apptest
+ 1799  31/03/24 02:01:13 cd ParkitRNApp
+ 1800  31/03/24 02:01:13 git pull origin main
+ 1801  31/03/24 02:01:13 subl .
+ 1802  31/03/24 02:01:13 git addd .
+ 1803  31/03/24 02:01:13 git add .
+ 1804  31/03/24 02:01:13 git commit -m "removed file"
+ 1805  31/03/24 02:01:13 git push origin main
+ 1806  31/03/24 02:01:13 git branch
+ 1807  31/03/24 02:01:13 subl .
+ 1808  31/03/24 02:01:13 git add .
+ 1809  31/03/24 02:01:13 git commit -m "removed file"
+ 1810  31/03/24 02:01:13 git push origin main
+ 1811  31/03/24 02:01:13 cd HardwareSmartParking
+ 1812  31/03/24 02:01:13 ls
+ 1813  31/03/24 02:01:13 git branch
+ 1814  31/03/24 02:01:13 git diff
+ 1815  31/03/24 02:01:13 ls
+ 1816  31/03/24 02:01:13 cls
+ 1817  31/03/24 02:01:13 cd ..
+ 1818  31/03/24 02:01:13 git add .
+ 1819  31/03/24 02:01:13 git commit -m "ParkitRNApp submodule added"
+ 1820  31/03/24 02:01:13 git push origin main
+ 1821  31/03/24 02:01:13 git add .
+ 1822  31/03/24 02:01:13 git commit -m "tesging files"
+ 1823  31/03/24 02:01:13 git pull origin main
+ 1824  31/03/24 02:01:13 git commit -m "tesging files"
+ 1825  31/03/24 02:01:13 git add .
+ 1826  31/03/24 02:01:13 git commit -m "tesging files"
+ 1827  31/03/24 02:01:13 git push origin main
+ 1828  31/03/24 02:01:13 git add .
+ 1829  31/03/24 02:01:13 git commit -m "removed jest config:NOT WORKING"
+ 1830  31/03/24 02:01:13 git push origin main
+ 1831  31/03/24 02:01:13 ls
+ 1832  31/03/24 02:01:13 git pull origin main
+ 1833  31/03/24 02:01:13 cd ../..
+ 1834  31/03/24 02:01:13 cd apptest
+ 1835  31/03/24 02:01:13 cd ParkitRNApp
+ 1836  31/03/24 02:01:13 subl .
+ 1837  31/03/24 02:01:13 cd ..
+ 1838  31/03/24 02:01:13 cd FrontENd
+ 1839  31/03/24 02:01:13 ls
+ 1840  31/03/24 02:01:13 cd SmartParking
+ 1841  31/03/24 02:01:13 ls
+ 1842  31/03/24 02:01:13 cd Frontend
+ 1843  31/03/24 02:01:13 ls
+ 1844  31/03/24 02:01:13 git add .
+ 1845  31/03/24 02:01:13 rm -rf .git
+ 1846  31/03/24 02:01:13 git add .
+ 1847  31/03/24 02:01:13 cd ..
+ 1848  31/03/24 02:01:13 git remote -v
+ 1849  31/03/24 02:01:13 cd FrontEnd
+ 1850  31/03/24 02:01:13 cd Frontend
+ 1851  31/03/24 02:01:13 git remote -v 
+ 1852  31/03/24 02:01:13 cd ParkitRNApp
+ 1853  31/03/24 02:01:13 git remote -v
+ 1854  31/03/24 02:01:13 git add .
+ 1855  31/03/24 02:01:13 cd ..
+ 1856  31/03/24 02:01:13 sudo rm -rf ParkitRNApp
+ 1857  31/03/24 02:01:13 ls
+ 1858  31/03/24 02:01:13 cd ..
+ 1859  31/03/24 02:01:13 cd Frontend
+ 1860  31/03/24 02:01:13 git submodule add https://github.com/ovidiujordache/ParkitRNApp.git
+ 1861  31/03/24 02:01:13 git status
+ 1862  31/03/24 02:01:13 git add .
+ 1863  31/03/24 02:01:13 git commit -m "Component Diagram"
+ 1864  31/03/24 02:01:13 git add .
+ 1865  31/03/24 02:01:13 git commit -m "Component Diagram"
+ 1866  31/03/24 02:01:13 dir
+ 1867  31/03/24 02:01:13 git add submodule https://github.com/ovidiujordache/ParkitRNApp.git
+ 1868  31/03/24 02:01:13 git submodule add https://github.com/ovidiujordache/ParkitRNApp.git
+ 1869  31/03/24 02:01:13 ls
+ 1870  31/03/24 02:01:13 cd ParkitRNApp
+ 1871  31/03/24 02:01:13 npm install
+ 1872  31/03/24 02:01:13 mkdir unittest
+ 1873  31/03/24 02:01:13 subl .
+ 1874  31/03/24 02:01:13 yarn test
+ 1875  31/03/24 02:01:13 jest
+ 1876  31/03/24 02:01:13 yarn test
+ 1877  31/03/24 02:01:13 npm install --save-dev @babel/preset-typescript
+ 1878  31/03/24 02:01:13 npm install --save-dev ts-jest
+ 1879  31/03/24 02:01:13 npm install --save-dev @jest/globals
+ 1880  31/03/24 02:01:13 yarn test
+ 1881  31/03/24 02:01:13 yarn add --dev react-native-testing-library
+ 1882  31/03/24 02:01:13 npm install
+ 1883  31/03/24 02:01:13 subl .
+ 1884  31/03/24 02:01:13 npm start
+ 1885  31/03/24 02:01:13 git git checkout -b tests/test-branch
+ 1886  31/03/24 02:01:13 git  checkout -b tests/test-branch
+ 1887  31/03/24 02:01:13 gi branch
+ 1888  31/03/24 02:01:13 git branch
+ 1889  31/03/24 02:01:13 git add .
+ 1890  31/03/24 02:01:13 git commit -m "adding tests"
+ 1891  31/03/24 02:01:13 mocha
+ 1892  31/03/24 02:01:13 git add .npm install -g mocha
+ 1893  31/03/24 02:01:13 npm install -g mocha
+ 1894  31/03/24 02:01:13 mocha
+ 1895  31/03/24 02:01:13 npx mocha npm install --save-dev mocha @babel/register @babel/preset-env @babel/preset-react chai enzyme enzyme-adapter-react-16 react-test-renderer
+ 1896  31/03/24 02:01:13 npm test
+ 1897  31/03/24 02:01:13 mocha 
+ 1898  31/03/24 02:01:13 mocha ./tests
+ 1899  31/03/24 02:01:13 mocha --require ts-node/register test/**/*.test.tsx
+ 1900  31/03/24 02:01:13 mocha test/**/*.test.tsx
+ 1901  31/03/24 02:01:13 mocha test/*.test.tsx
+ 1902  31/03/24 02:01:13 mocha tests/*.test.tsx
+ 1903  31/03/24 02:01:13 mocha tests/*.test.js
+ 1904  31/03/24 02:01:13 mocha tests/*.test.tsx
+ 1905  31/03/24 02:01:13 npm install --save-dev typescript
+ 1906  31/03/24 02:01:13 mocha tests/*.test.tsx
+ 1907  31/03/24 02:01:13 npm install --save-dev ts-node
+ 1908  31/03/24 02:01:13 mocha --require ts-node/regiser tests/*.test.tsx
+ 1909  31/03/24 02:01:13 mocha --require ts-node/register tests/*.test.tsx
+ 1910  31/03/24 02:01:13 mocha --require ts-node/register tests/**/*.test.tsx
+ 1911  31/03/24 02:01:13 rm -rf node_modules
+ 1912  31/03/24 02:01:13 npm install
+ 1913  31/03/24 02:01:13 mocha --require ts-node/register tests/**/*.test.tsx
+ 1914  31/03/24 02:01:13 npm test
+ 1915  31/03/24 02:01:13 npm install --save-dev ts-node
+ 1916  31/03/24 02:01:13 npm test
+ 1917  31/03/24 02:01:13 ls -l
+ 1918  31/03/24 02:01:13 sudo npm test
+ 1919  31/03/24 02:01:13 sudo chmod -R +x tests
+ 1920  31/03/24 02:01:13 sudo  chmod 0777 ./node_modules/.bin/mocha
+ 1921  31/03/24 02:01:13 ls ./node_modules
+ 1922  31/03/24 02:01:13 find ./node_modules/mocha
+ 1923  31/03/24 02:01:13 find mocha | grep 
+ 1924  31/03/24 02:01:13 grep -r -e mocha node_modules
+ 1925  31/03/24 02:01:13 grep -r -e mocha node_modules/bin
+ 1926  31/03/24 02:01:13 grep -r -e mocha node_modules/.bin
+ 1927  31/03/24 02:01:13 chmod 0777 ./node_modules/mocha/bin/mocha
+ 1928  31/03/24 02:01:13 sudo chmod -R 7777 node_modules
+ 1929  31/03/24 02:01:13 npm test
+ 1930  31/03/24 02:01:13 npm install -g  @testing-library/react-native 
+ 1931  31/03/24 02:01:13 npm test
+ 1932  31/03/24 02:01:13 npm install --save-dev @testing-library/react-native
+ 1933  31/03/24 02:01:13 npm test
+ 1934  31/03/24 02:01:13 yarn add --dev @testing-library/react-native
+ 1935  31/03/24 02:01:13 npm test
+ 1936  31/03/24 02:01:13 npm install --save-dev ts-jest
+ 1937  31/03/24 02:01:13 npm test
+ 1938  31/03/24 02:01:13 npm install --save-dev @jest/globals
+ 1939  31/03/24 02:01:13 npm test
+ 1940  31/03/24 02:01:13 npm install --save-dev @testing-library/react-native
+ 1941  31/03/24 02:01:13 npm install --save-dev @babel/core @babel/preset-env
+ 1942  31/03/24 02:01:13 npm reset --cache-clear
+ 1943  31/03/24 02:01:13 npm reset --cache
+ 1944  31/03/24 02:01:13 npm test
+ 1945  31/03/24 02:01:13 npm install --save-dev @babel/preset-react
+ 1946  31/03/24 02:01:13 npm test
+ 1947  31/03/24 02:01:13 git branch
+ 1948  31/03/24 02:01:13 git checkout main
+ 1949  31/03/24 02:01:13 git stash
+ 1950  31/03/24 02:01:13 git checkout main
+ 1951  31/03/24 02:01:13 git branch
+ 1952  31/03/24 02:01:13 subl .
+ 1953  31/03/24 02:01:13 git add .
+ 1954  31/03/24 02:01:13 git diff
+ 1955  31/03/24 02:01:13 git commit -m "tesing files"
+ 1956  31/03/24 02:01:13 git push origin main
+ 1957  31/03/24 02:01:13 git pull origin main
+ 1958  31/03/24 02:01:13 npm testg
+ 1959  31/03/24 02:01:13 npm test
+ 1960  31/03/24 02:01:13 npm start
+ 1961  31/03/24 02:01:13 git pull origin main
+ 1962  31/03/24 02:01:13 git add .
+ 1963  31/03/24 02:01:13 git stash 
+ 1964  31/03/24 02:01:13 git pull origin main
+ 1965  31/03/24 02:01:13 git diff 
+ 1966  31/03/24 02:01:13 git add .
+ 1967  31/03/24 02:01:13 git commit -m "update"
+ 1968  31/03/24 02:01:13 git branch
+ 1969  31/03/24 02:01:13 git pull origin main
+ 1970  31/03/24 02:01:13 cd media
+ 1971  31/03/24 02:01:13 cd /media
+ 1972  31/03/24 02:01:13 cd ovi
+ 1973  31/03/24 02:01:13 cd DEVELOPMENT_WX
+ 1974  31/03/24 02:01:13 ls
+ 1975  31/03/24 02:01:13 cd Development_WX
+ 1976  31/03/24 02:01:13 cd PROJECTS_YEAR_4
+ 1977  31/03/24 02:01:13 cd COLLAB_PROJECT
+ 1978  31/03/24 02:01:13 git stash
+ 1979  31/03/24 02:01:13 cd SmartParking
+ 1980  31/03/24 02:01:13 git stash
+ 1981  31/03/24 02:01:13 git show commit
+ 1982  31/03/24 02:01:13 git diff
+ 1983  31/03/24 02:01:13 cd TestSmartParking
+ 1984  31/03/24 02:01:13 ls
+ 1985  31/03/24 02:01:13 cd TestingSmartParking
+ 1986  31/03/24 02:01:13 git add .
+ 1987  31/03/24 02:01:13 git diff
+ 1988  31/03/24 02:01:13 ls
+ 1989  31/03/24 02:01:13 sudo apt update
+ 1990  31/03/24 02:01:13 sudo apt upgrade
+ 1991  31/03/24 02:01:13 sudo apt dist=upgrade
+ 1992  31/03/24 02:01:13 sudo apt dist-upgrade
+ 1993  31/03/24 02:01:16 subl
+ 1994  31/03/24 02:01:37 ls
+ 1995  31/03/24 02:01:42 subl .
+ 1996  31/03/24 02:03:21 npm start
+ 1997  31/03/24 02:10:29 subl .
+ 1998  31/03/24 02:20:37 emacs ~/.bash_history
+ 1999  31/03/24 02:20:47 vim  ~/.bash_history
+ 2000  31/03/24 02:25:45 echo 'HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bashrc 
+ 2001  31/03/24 02:25:55 source ~/.bashrc
+ 2002  31/03/24 02:25:58 history
+ 2003  31/03/24 02:26:18 | less
+ 2004  31/03/24 02:26:25 history | less
+ 2005  31/03/24 02:48:05 sudo apt install gdm3
+ 2006  31/03/24 03:04:30 npm install react-native-maps
+ 2007  31/03/24 03:05:02 history > less
